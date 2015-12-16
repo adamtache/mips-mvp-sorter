@@ -1,4 +1,4 @@
-# MIPS MVP Sorter for Duke Computer Architecture (CS250)
+# MIPS MVP Sorter for Duke Computer Architecture (CS250) Fall 2015 (Originally created September 2015)
 
 MIPS program that reads in user input (a series of player statistics) and using MIPS floating point instructions, prints players based on sorted value calculation and then prints Most Valuable Player (MVP) on last line.
 
